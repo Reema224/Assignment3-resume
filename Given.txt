@@ -1,0 +1,10 @@
+Create a CV using HTML and CSS (external CSS) - I don't want it responsive. Your website shall contain the following:
+Full Name
+Profile Picture
+Cohort#
+Small description
+List of hobbies using a list
+A table of your past experiences
+A table showing your educational background
+A link to your LinkedIn (If you don't have one, create ASAP)
+Deliverable: The GitHub pages link of your website.
